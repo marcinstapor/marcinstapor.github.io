@@ -20,6 +20,10 @@
 ## Grafika
 - Test online: [Grafika - formularz Google](https://docs.google.com/forms/d/e/1FAIpQLSfSjMBI29ODUjXVuPP2qHrrPHDN3S8KWpYnuzM6KunYLqI2wA/viewform)
 
+## Bazy danych
+
+- Prezentacja: [Wprowadzenie do baz danych](https://drive.google.com/open?id=1-z2yrPayvkLZEFIjm3EQ9WlzT0IKc-RG)
+
 ## Sieci
 - Prezentacja: [Protokół IPv4](https://drive.google.com/open?id=13DlQhPV3DfIKe8Hu1K6YIXaPiOcwFQ-F)
 - Prezentacja: [Protokół DHCP](https://drive.google.com/open?id=1RjSWPO2CeciHeHmm-OvfyIhh83oGOec1)
