@@ -17,6 +17,8 @@
 ## Szyfrowanie
 - Prezentacja: [Kryptosystem RSA](https://drive.google.com/open?id=1HsEx3QE_aDMsDxhZjIkP5dHUc0ncQVAv)
 
+## Grafika
+- Test online: [Grafika - formularz Google](https://docs.google.com/forms/d/e/1FAIpQLSfSjMBI29ODUjXVuPP2qHrrPHDN3S8KWpYnuzM6KunYLqI2wA/viewform)
 
 ## Sieci
 - Prezentacja: [Protokół IPv4](https://drive.google.com/open?id=13DlQhPV3DfIKe8Hu1K6YIXaPiOcwFQ-F)
