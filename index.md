@@ -24,6 +24,8 @@
 - Prezentacja: [Protokół IPv4](https://drive.google.com/open?id=13DlQhPV3DfIKe8Hu1K6YIXaPiOcwFQ-F)
 - Prezentacja: [Protokół DHCP](https://drive.google.com/open?id=1RjSWPO2CeciHeHmm-OvfyIhh83oGOec1)
 - Test online: [Sieci - formularz Google](https://docs.google.com/forms/d/e/1FAIpQLSd3klROn64xTdtO4UXldqzBUbJNuJ4qQYbxOHYvd_hGrXTssA/viewform)  
+
+
 ---
 # Próbne
 
