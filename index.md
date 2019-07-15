@@ -11,6 +11,9 @@
 - Przykładowy sprawdzian: [Systemy liczbowe (2)](https://drive.google.com/open?id=1Ez3OUxenp32afi1aZFfEt_tPEkSGKHYa)
 - Dodatkowe pytania testowe: [Systemy liczbowe - formularz Google](https://docs.google.com/forms/d/e/1FAIpQLScC0M9gGaUzCvBqKlHsAJUxxCC4iVkgG-DNP6LuOJIVXdZ-eQ/viewform)
 
+## Algorytmy sortowania
+- Prezentacja: [Algorytmy sortowania](https://drive.google.com/open?id=1EDHHlcbgPt7zgNmXWqIfwGSTrusp4UC9)
+
 ---
 # Próbne
 
