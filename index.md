@@ -17,6 +17,10 @@
 ## Szyfrowanie
 - Prezentacja: [Kryptosystem RSA](https://drive.google.com/open?id=1HsEx3QE_aDMsDxhZjIkP5dHUc0ncQVAv)
 
+
+## Sieci
+- Prezentacja: [Protokół IPv4](https://drive.google.com/open?id=13DlQhPV3DfIKe8Hu1K6YIXaPiOcwFQ-F)
+- Prezentacja: [Protokół DHCP](https://drive.google.com/open?id=1RjSWPO2CeciHeHmm-OvfyIhh83oGOec1)
 ---
 # Próbne
 
