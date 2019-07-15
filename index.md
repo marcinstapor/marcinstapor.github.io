@@ -1,9 +1,9 @@
-# Welcome to GitHub Pages
+# Materiały do lekcji informatyki
 
-## Temat: Systemy liczbowe
-
+## Systemy liczbowe
 - Prezentacja: [Systemy liczbowe](https://drive.google.com/open?id=1U-3IWsTRZxTTlMOsjQwx0-V7YMI2AMMX)
-- Materiał
+
+## 
 
 - Coś jeszcze...
 - ... i jeszcze coś
