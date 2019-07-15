@@ -2,6 +2,7 @@
 
 ## Systemy liczbowe
 - Prezentacja: [Systemy liczbowe](https://drive.google.com/open?id=1U-3IWsTRZxTTlMOsjQwx0-V7YMI2AMMX)
+- Informacje dodatkowe: [Wiki](https://github.com/marcinstapor/marcinstapor.github.io.wiki.git)
 
 ## 
 
