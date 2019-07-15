@@ -9,7 +9,7 @@
 - Prezentacja: [Kodowanie stałopozycyjne](https://drive.google.com/open?id=1sKcnfDFN_dSJ82rCP_xZ_ymd-u-8gCmn)
 - Prezentacja: [Kodowanie zmiennopozycyjne](https://drive.google.com/open?id=1DV5JZO9WUtFFyb6jLnM4se4S5PXzP8Xj)
 - Przykładowy sprawdzian: [Systemy liczbowe (2)](https://drive.google.com/open?id=1Ez3OUxenp32afi1aZFfEt_tPEkSGKHYa)
-
+- Dodatkowe pytania testowe: [Systemy liczbowe - formularz Google](https://docs.google.com/forms/d/e/1FAIpQLScC0M9gGaUzCvBqKlHsAJUxxCC4iVkgG-DNP6LuOJIVXdZ-eQ/viewform)
 
 ---
 # Próbne
