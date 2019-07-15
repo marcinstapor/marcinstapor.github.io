@@ -14,6 +14,9 @@
 ## Algorytmy sortowania
 - Prezentacja: [Algorytmy sortowania](https://drive.google.com/open?id=1EDHHlcbgPt7zgNmXWqIfwGSTrusp4UC9)
 
+## Szyfrowanie
+- Prezentacja: [Kryptosystem RSA](https://drive.google.com/open?id=1HsEx3QE_aDMsDxhZjIkP5dHUc0ncQVAv)
+
 ---
 # Próbne
 
