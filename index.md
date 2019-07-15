@@ -9,7 +9,7 @@
 - Prezentacja: [Kodowanie stałopozycyjne](https://drive.google.com/open?id=1sKcnfDFN_dSJ82rCP_xZ_ymd-u-8gCmn)
 - Prezentacja: [Kodowanie zmiennopozycyjne](https://drive.google.com/open?id=1DV5JZO9WUtFFyb6jLnM4se4S5PXzP8Xj)
 - Przykładowy sprawdzian: [Systemy liczbowe (2)](https://drive.google.com/open?id=1Ez3OUxenp32afi1aZFfEt_tPEkSGKHYa)
-- Dodatkowe pytania testowe: [Systemy liczbowe - formularz Google](https://docs.google.com/forms/d/e/1FAIpQLScC0M9gGaUzCvBqKlHsAJUxxCC4iVkgG-DNP6LuOJIVXdZ-eQ/viewform)
+- Test online: [Systemy liczbowe - formularz Google](https://docs.google.com/forms/d/e/1FAIpQLScC0M9gGaUzCvBqKlHsAJUxxCC4iVkgG-DNP6LuOJIVXdZ-eQ/viewform)
 
 ## Algorytmy sortowania
 - Prezentacja: [Algorytmy sortowania](https://drive.google.com/open?id=1EDHHlcbgPt7zgNmXWqIfwGSTrusp4UC9)
@@ -21,6 +21,7 @@
 ## Sieci
 - Prezentacja: [Protokół IPv4](https://drive.google.com/open?id=13DlQhPV3DfIKe8Hu1K6YIXaPiOcwFQ-F)
 - Prezentacja: [Protokół DHCP](https://drive.google.com/open?id=1RjSWPO2CeciHeHmm-OvfyIhh83oGOec1)
+- Test online: [Sieci - formularz Google](https://docs.google.com/forms/d/e/1FAIpQLSd3klROn64xTdtO4UXldqzBUbJNuJ4qQYbxOHYvd_hGrXTssA/viewform)  
 ---
 # Próbne
 
