@@ -4,9 +4,11 @@
 - Prezentacja: [Dwójkowy system liczbowy (zapis ułamków)](https://drive.google.com/open?id=1CzOq86gWcx2uxo-lZXP8Six42rnOn0fm)
 - Prezentacja: [Konwersje dwójkowo-ósemkowe i dwójkowo-szesnastkowe](https://drive.google.com/open?id=1ASsq7vyv6MYZcomoTGOdAUYXy4H5mZxN)
 - Prezentacja: [Kodowanie informacji za pomocą bitów](https://drive.google.com/open?id=1ZQMOYoVGtZs3pCF6zK_KGT9V8ByZVUFP)
+- Przykładowy sprawdzian: [Systemy liczbowe (1)](https://drive.google.com/open?id=1JeiptaZcCld2DrkeTVtpRBDJpH0idJW-)
 - Prezentacja: [Kodowanie informacji za pomocą bitów (liczby ujemne całkowite)](https://drive.google.com/open?id=1FwC9IDziKZdwrlf9_z_FR-ZL2YvLgCwe)
 - Prezentacja: [Kodowanie stałopozycyjne](https://drive.google.com/open?id=1sKcnfDFN_dSJ82rCP_xZ_ymd-u-8gCmn)
 - Prezentacja: [Kodowanie zmiennopozycyjne](https://drive.google.com/open?id=1DV5JZO9WUtFFyb6jLnM4se4S5PXzP8Xj)
+- Przykładowy sprawdzian: [Systemy liczbowe (2)](https://drive.google.com/open?id=1Ez3OUxenp32afi1aZFfEt_tPEkSGKHYa)
 
 
 ---
