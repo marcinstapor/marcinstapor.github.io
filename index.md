@@ -2,7 +2,7 @@
 
 ## Temat: Systemy biblioteczne
 
-- Prezentacja [Acedemica](https://drive.google.com/file/d/1YizjP0Ut8LjBQOc81rqIl_vxJ2K8h3oB/view)
+- Prezentacja [Acedemica](https://drive.google.com/file/d/1YizjP0Ut8LedeOc81rqIl_vxJ2K8h3oB/view)
 - Materiał
 
 - Coś jeszcze...
