@@ -23,6 +23,7 @@
 ## Bazy danych
 
 - Prezentacja: [Wprowadzenie do baz danych](https://drive.google.com/open?id=1-z2yrPayvkLZEFIjm3EQ9WlzT0IKc-RG)
+- Polecenia do zadań na lekcji: ["Fabryka cukierków" - kwerendy](https://drive.google.com/open?id=1RgKhGJxh9Ybsi5Iel_3FMPDxxYp8pFT9)
 
 ## Sieci
 - Prezentacja: [Protokół IPv4](https://drive.google.com/open?id=13DlQhPV3DfIKe8Hu1K6YIXaPiOcwFQ-F)
