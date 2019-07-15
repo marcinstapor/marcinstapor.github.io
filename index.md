@@ -1,8 +1,8 @@
 # Welcome to GitHub Pages
 
-## Temat: Systemy biblioteczne
+## Temat: Systemy liczbowe
 
-- Prezentacja [Acedemica](https://drive.google.com/open?id=1YizjP0Ut8LjBQOc81rqIl_vxJ2K8h3oB)
+- Prezentacja: [Systemy liczbowe](https://drive.google.com/open?id=1U-3IWsTRZxTTlMOsjQwx0-V7YMI2AMMX)
 - Materiał
 
 - Coś jeszcze...
